@@ -33,11 +33,11 @@ node index.js
 
 ## GitHub Link : (https://github.com/Sergey-ddbug)
 
-## Quick Video :
-
 ## Email : sishimov@gmail.com
 
 ![badge](https://img.shields.io/badge/license-Unlicense-blue.svg)
+
+## Quick Video :
 
 ![Video](./utils/readmegeneratorcut.gif)
 # README-generator
